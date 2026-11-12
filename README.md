@@ -1,4 +1,21 @@
-# Zip Password Cracker – From dev for user to recover lost Zip folders passwords
+<p align="center">
+  <a href="https://obliviondh.com"><img src="https://raw.githubusercontent.com/ivanbg2004/oblivion-zip-cracker/main/.github/banner.png" alt="Oblivion ZIP Cracker — by Oblivion" width="100%"></a>
+</p>
+
+<h1 align="center">Oblivion ZIP Cracker</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/by--Oblivion-FFCC00?style=flat-square" alt="by-Oblivion">
+  <img src="https://img.shields.io/badge/Cybersecurity--%C2%B7--Cloud--%C2%B7--AI-0A0A0A?style=flat-square" alt="Cybersecurity-·-Cloud-·-AI">
+  <img src="https://img.shields.io/badge/License--see--LICENSE-0A0A0A?style=flat-square" alt="License-see-LICENSE">
+  <a href="https://discord.gg/f4mZBU9xS8"><img src="https://img.shields.io/badge/Discord--join-5865F2?style=flat-square" alt="Discord-join"></a>
+</p>
+
+<p align="center"><b>Recover lost ZIP passwords with dictionary and brute-force attacks in Python. Ethical password recovery by Oblivion.</b></p>
+
+<p align="center">`zip` · `password-cracker` · `password-recovery` · `brute-force` · `dictionary-attack` · `python`</p>
+
+---
 
 Stay locked out no more! Built with Python, our Zip Password Cracker is dedicated to ethically recover lost or forgotten passwords of ZIP files. The tool not only underpins the significance of robust password practices but also accentuates the essentials of cybersecurity awareness.
 
@@ -20,7 +37,7 @@ Our Zip Password Cracker brings to the table a multitude of password regeneratio
 
 ## Usage Instructions
 
-1. **Picking Up GitHub Code**: Clone our GitHub repository directly by entering the following in your terminal: `git clone https://github.com/ivanbg2004/zip-password-cracker.git` and `cd zip-password-cracker`.
+1. **Picking Up GitHub Code**: Clone our GitHub repository directly by entering the following in your terminal: `git clone https://github.com/ivanbg2004/oblivion-zip-cracker.git` and `cd oblivion-zip-cracker`.
 
 2. **Installation**: For Python package requirements, refer to the 'Installation' section below.
 
@@ -67,3 +84,23 @@ Oblivion Forgotten - An Ethical Hacker, promoting responsible and ethical hackin
 
 
 PD: This file and comments were made with AI so I have to study and work. On my free time I was with the code and then I used AI to comment it and also do the README.md file.
+
+
+
+## ⚠️ Ethical use
+
+Oblivion ZIP Cracker is built for **authorized security testing, education and CTFs only**. Use it only on systems you own or have explicit written permission to test. You are responsible for complying with all applicable laws. The authors accept no liability for misuse.
+
+## About Oblivion
+
+Built by [**Oblivion**](https://obliviondh.com) — cybersecurity, cloud and AI. This tool is part of the Oblivion open-source toolkit.
+
+- 🌐 Website: [obliviondh.com](https://obliviondh.com)
+- 🎓 Learn: [Oblivion Academy](https://academy.obliviondh.com)
+- 💬 Community: [Discord](https://discord.gg/f4mZBU9xS8)
+- 🔗 All links: [linktr.ee/ivanbg2004](https://linktr.ee/ivanbg2004)
+- 👤 Author: [Ivan Barnola Gasch](https://www.linkedin.com/in/ivanbg2004/)
+
+<sub>Keywords: zip, password-cracker, password-recovery, brute-force, dictionary-attack, python, ethical-hacking, cybersecurity.</sub>
+
+<p align="center"><sub>© 2026 Oblivion. If this project helped you, leave a ⭐ — it helps others find it.</sub></p>
